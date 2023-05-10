@@ -1,0 +1,7 @@
+db:
+  name: dbname
+  user: username
+  password: pass
+
+tg:
+  token: token
